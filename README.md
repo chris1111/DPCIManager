@@ -1,4 +1,7 @@
 # DPCIManager
+Fork of [MuntashirAkonsource code](https://github.com/MuntashirAkon/DPCIManager)
+
+
 Simple OS X app for viewing PCI hardware info
 
 The [original source code](https://sourceforge.net/projects/dpcimanager) was from @phpdev32 
