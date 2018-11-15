@@ -11,7 +11,7 @@ Download ➣ [Release DPCIManager](https://github.com/chris1111/DPCIManager/rele
 
 Old binaries can be found here: https://sourceforge.net/projects/dpcimanager/files
 
-**NOTE:** The old binary files contain `DirectHW.kext` which might lead your antivirus program to believe that this application contains a virus. Please white-list this app in your antivirus program.
+**NOTE:** The old binary files contain `DirectHW.kext` which might lead your antivirus program to believe that this application contains a virus. This has been completely removed from this version (V 1.8)
 
 ### Usage (for `dspci`)
 If you're running version `1.6`, see usage [here](https://github.com/MuntashirAkon/DPCIManager/blob/e302cd9ce6f62d90d5da627cccc14cb088696444/README.md#usage-for-dspci).
