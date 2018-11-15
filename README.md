@@ -6,9 +6,8 @@ Simple OS X app for viewing PCI hardware info
 
 The [original source code](https://sourceforge.net/projects/dpcimanager) was from @phpdev32 
 
-### Binaries
-You can find the [latest binary](https://github.com/MuntashirAkon/DPCIManager/releases/latest)
-in the [release](https://github.com/MuntashirAkon/DPCIManager/releases) section.
+### Release
+Download ➣ [Release DPCIManager](https://github.com/chris1111/DPCIManager/releases/tag/V1.8)
 
 Old binaries can be found here: https://sourceforge.net/projects/dpcimanager/files
 
